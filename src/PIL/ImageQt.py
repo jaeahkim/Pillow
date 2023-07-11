@@ -25,6 +25,7 @@ from ._util import is_path
 qt_versions = [
     ["6", "PyQt6"],
     ["side6", "PySide6"],
+    ["5", "PyQt5"],
 ]
 
 # If a version has already been imported, attempt it first
